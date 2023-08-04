@@ -1,4 +1,4 @@
-# Talk to GPT
+# VoiceGPT
 
 <p align="center">
   <img src="img/hal.jpg" alt="HAL Image" width="400">
