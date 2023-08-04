@@ -5,4 +5,4 @@
 # Talk to GPT
 ### using OpenAI and Azure Speech Services
 
-work in progesssssssssssss
+work in progesssssssssssssc
