@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/hal.jpeg" alt="HAL Image" width="200">
+  <img src="img/hal.jpg" alt="HAL Image" width="200">
 </p>
 
 # A simple solution to use voice to talk to GPT
