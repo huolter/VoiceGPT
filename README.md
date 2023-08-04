@@ -23,12 +23,11 @@ This GitHub repository contains a Python program that implements an AI assistant
 To run the AI assistant, you will need the following:
 
 - Python 3.x installed on your system.
+- Azure and OpenAI accounts
 - Environment variables set up for the necessary API keys:
     - OPENAI_API_KEY: API key for OpenAI GPT-3.5 API.
     - COG_SERVICE_KEY: API key for Azure Cognitive Services.
     - COG_SERVICE_REGION: Region for Azure Cognitive Services.
-    - Azure account 
-    - OpenAI account
 
 ## Setup
 
